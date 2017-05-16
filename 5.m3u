@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,H2
-http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv028/master.m3u8?token=pZPn6S4uh276zr8NHd9SVQ&expires=1494745217
+#EXTINF:-1 tvg-id="SanLih - Metro" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg"
+http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/02sgjyhjkhkjh.m3u8
