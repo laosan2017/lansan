@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg",三立都会
-http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/02sgjyhjkhkjh.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/241984/Metro_02tiger170520/02sgjyhjkhkjh.m3u8
 #EXTINF:-1 tvg-logo="http://ext.pimg.tw/nianiacti/4a9b3e9b5b4a9.jpg",中天娛樂
-http://a.q8kk.com/g1.php?id=ztyl
+http://zb.q8kk.com/b.php?id=ztyl
 #EXTINF:-1 tvg-logo="http://wfr3721.esy.es/html/taibiao/eyetv.jpg",EYE旅遊台
 http://qqq.okokip.com:8055/nimble_live/239/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://wfr3721.esy.es/html/taibiao/eyetv.jpg",EYE旅遊台
-http://a.q8kk.com/g1.php?id=eyetvly
+http://zb.q8kk.com/b.php?id=eyetvly
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
 http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
 #EXTINF:-1 tvg-logo="http://img.b.tvb.com/wp-content/blogs.dir/tvbi/files/2010/04/e6ada1e6a882e58fb0logo_e799bde5ba95.jpg",TVBS-G
 http://qqq.okokip.com:8055/nimble_live/172/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg",緯來育樂
+http://ws01.sg911.net/sat/tv701/playlist.m3u8
