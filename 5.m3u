@@ -13,3 +13,9 @@ http://zb.q8kk.com/b.php?id=tvbshl
 http://ws01.sg911.net/sat/tv701/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.shiting5.com/allimg/141013/6-14101320051A29.jpg",緯來綜合
 http://ms007.happytv.com.tw/live/AuUfhb2r92Hbvach/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WZAwFP0h0-0/VTzorkNYovI/AAAAAAAAAQY/S4dUwMfXfF8/s1600/578628_277361755699234_242858564_n.png",東森財經
+http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv019/master.m3u8?token=c-tDs-j7HdlmBd8-2WsMIQ&expires=1494745195
+#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
+http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ekUcsysVyJI/AAAAAAAAAAI/AAAAAAAAAAA/INf4_peD7XY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",中天亚洲
+http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
