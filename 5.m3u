@@ -20,4 +20,4 @@ http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcE
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ekUcsysVyJI/AAAAAAAAAAI/AAAAAAAAAAA/INf4_peD7XY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",中天亚洲
 http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png",中天综合
-http://us2.q8kk.com:5000/nn_live.m3u8?id=ZTZH&ngs=59228dc61c1674494d29bfd8375e2572&nn_user_id=nimingyonghu18&ndi=LIVE&nal=01c68d22590607eb228bc4abec5dc4fba0300a324cf8ad
+http://zb1.q8kk.com/b.php?id=ztzh
