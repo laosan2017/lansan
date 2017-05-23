@@ -2,13 +2,13 @@
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg",三立都会
 http://bcoveliveios-i.akamaihd.net/hls/live/241984/Metro_02tiger170520/02sgjyhjkhkjh.m3u8
 #EXTINF:-1 tvg-logo="http://ext.pimg.tw/nianiacti/4a9b3e9b5b4a9.jpg",中天娛樂
-http://zb.q8kk.com/b.php?id=ztyl
+http://us2.q8kk.com:5000/nn_live.m3u8?id=ZTYL&ngs=59228db82ea32b5f79e673275a730ebe&nn_user_id=nimingyonghu18&ndi=LIVE&nal=01b88d2259060745a535e5c0c07dfabd12c233ca541fd7
 #EXTINF:-1 tvg-logo="http://wfr3721.esy.es/html/taibiao/eyetv.jpg",EYE旅遊台
-http://zb.q8kk.com/b.php?id=eyetvly
+http://us3.q8kk.com:5000/nn_live.m3u8?id=EYETV&ngs=5923755a2aacd375dad9f0c1d2142cb1&nn_user_id=nimingyonghu28&ndi=LIVE&nal=015b752359060742cdcb3386679c88930c624e9dde4496
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
 https://58ada6ee80845.streamlock.net/ios/ctv-0321/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.b.tvb.com/wp-content/blogs.dir/tvbi/files/2010/04/e6ada1e6a882e58fb0logo_e799bde5ba95.jpg",TVBS-G
-http://zb.q8kk.com/b.php?id=tvbshl
+http://us4.q8kk.com:5000/nn_live.m3u8?id=TVBSHLHD&ngs=59223dc12b55444fd2f15ce64bfa30f0&nn_user_id=nimingyonghu2&ndi=LIVE&nal=01c13d225906077e0aebf031d86a0e7b8b19367bdb3a8d
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg",緯來育樂
 http://ws01.sg911.net/sat/tv701/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.shiting5.com/allimg/141013/6-14101320051A29.jpg",緯來綜合
@@ -19,3 +19,5 @@ http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv019/master.m3u8?token=c-tDs-j7HdlmBd8-2
 http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ekUcsysVyJI/AAAAAAAAAAI/AAAAAAAAAAA/INf4_peD7XY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",中天亚洲
 http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png",中天综合
+http://us2.q8kk.com:5000/nn_live.m3u8?id=ZTZH&ngs=59228dc61c1674494d29bfd8375e2572&nn_user_id=nimingyonghu18&ndi=LIVE&nal=01c68d22590607eb228bc4abec5dc4fba0300a324cf8ad
