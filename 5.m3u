@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg",三立都会
-http://bcoveliveios-i.akamaihd.net/hls/live/241984/Metro_02tigerandcat951/02sgjyhjkhkjh.m3u8
+http://145.128.77.3:5000/nn_live.m3u8?id=SLDH&ngs=592f44521310a086b2d297551107463b&nn_user_id=XQTVOY&ndi=00-66-DE-00-4E-25&nal=0153442f5906076ccc893478bcc3557213fec9405cb8e3
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
 https://58ada6ee80845.streamlock.net/ios/ctv-0321/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg",緯來育樂
