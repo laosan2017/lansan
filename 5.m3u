@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg",三立都会
-http://145.128.77.3:5000/nn_live.m3u8?id=SLDH&ngs=592f44521310a086b2d297551107463b&nn_user_id=XQTVOY&ndi=00-66-DE-00-4E-25&nal=0153442f5906076ccc893478bcc3557213fec9405cb8e3
+http://live.tv-bar.net/streams/hls/multibitrate/live/9303.m3u8
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
 https://58ada6ee80845.streamlock.net/ios/ctv-0321/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg",緯來育樂
@@ -14,10 +14,10 @@ http://zb1.q8kk.com/a.php?id=ztyl
 #EXTINF:-1 tvg-logo="http://wfr3721.esy.es/html/taibiao/eyetv.jpg",EYE旅遊台
 http://zb1.q8kk.com/a.php?id=eyetvly
 #EXTINF:-1 tvg-logo="http://img.b.tvb.com/wp-content/blogs.dir/tvbi/files/2010/04/e6ada1e6a882e58fb0logo_e799bde5ba95.jpg",TVBS-G
-http://tclive2-t70.griffinmas.com/streams/hls/multibitrate/live/8101.m3u8
+http://live.tv-bar.net/streams/hls/multibitrate/live/8101.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WZAwFP0h0-0/VTzorkNYovI/AAAAAAAAAQY/S4dUwMfXfF8/s1600/578628_277361755699234_242858564_n.png",東森財經
 http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv019/master.m3u8?token=c-tDs-j7HdlmBd8-2WsMIQ&expires=1494745195
 #EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
 http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png",中天综合
-http://tclive2-t70.griffinmas.com/streams/hls/multibitrate/live/8201.m3u8
+http://live.tv-bar.net/streams/hls/multibitrate/live/8201.m3u8
