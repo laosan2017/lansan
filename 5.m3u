@@ -17,7 +17,5 @@ http://zb1.q8kk.com/a.php?id=eyetvly
 http://live.tv-bar.net/streams/hls/multibitrate/live/8101.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WZAwFP0h0-0/VTzorkNYovI/AAAAAAAAAQY/S4dUwMfXfF8/s1600/578628_277361755699234_242858564_n.png",東森財經
 https://58ada6ee80845.streamlock.net/ios/ebcnews-0612/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
-http://mozai.4gtv.tv/m3u8/embed/4gtv-4gtv040/master.m3u8?token=6jiE8H3TyCjg8wqcEfEZJg&expires=1494745214
 #EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png",中天综合
 http://68.235.62.60:8081/nimble_live/213/chunks.m3u8
