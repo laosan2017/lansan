@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SET-Metro_o.jpg",三立都会
-http://68.235.62.60:8081/nimble_live/189/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://mod.cht.com.tw/img/channel/channelpic2/039.jpeg",中視HD
+#EXTINF:-1,vland_26
+https://ms007.happytv.com.tw/live/qW2z1yWdenHSv7Rk/playlist.m3u8
+#EXTINF:-1,vland_71
+https://ms007.happytv.com.tw/live/j3Vs3yFki82LDqnI/playlist.m3u8
+#EXTINF:-1,ctv_bravo_twHao
+https://58ada6ee80845.streamlock.net/ios/ctvhd-0612/playlist.m3u8
+#EXTINF:-1,ctv_jd_amo
+http://202.39.43.119/stc/ch2016112265061.m3u8
+#EXTINF:-1,ctv_news_4s
+https://p-sirona-yond.4gtv.tv/hi/vod/ed8X8ej2n6g/master.m3u8
+#EXTINF:-1,ctv_qc_amo
+http://202.39.43.119/stc/ch2016112265063.m3u8
+#EXTINF:-1,ctv_twHao
 https://58ada6ee80845.streamlock.net/ios/ctv-0612/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/VL-Max-TV-Logo.jpg",緯來育樂
-http://ws01.sg911.net/sat/tv701/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ekUcsysVyJI/AAAAAAAAAAI/AAAAAAAAAAA/INf4_peD7XY/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",中天亚洲
-http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
-#EXTINF:-1 tvg-logo="http://img.shiting5.com/allimg/141013/6-14101320051A29.jpg",緯來綜合
-http://ms007.happytv.com.tw/live/GeY6fKExgWsEXyG8/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ext.pimg.tw/nianiacti/4a9b3e9b5b4a9.jpg",中天娛樂
-http://zb1.q8kk.com/a.php?id=ztyl
-#EXTINF:-1 tvg-logo="http://wfr3721.esy.es/html/taibiao/eyetv.jpg",EYE旅遊台
-http://zb1.q8kk.com/a.php?id=eyetvly
-#EXTINF:-1 tvg-logo="http://img.b.tvb.com/wp-content/blogs.dir/tvbi/files/2010/04/e6ada1e6a882e58fb0logo_e799bde5ba95.jpg",TVBS-G
-http://live.tv-bar.net/streams/hls/multibitrate/live/8101.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-WZAwFP0h0-0/VTzorkNYovI/AAAAAAAAAQY/S4dUwMfXfF8/s1600/578628_277361755699234_242858564_n.png",東森財經
-https://58ada6ee80845.streamlock.net/ios/ebcnews-0612/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.tbc.net.tw/Upload/EpgChannel/2add40a1-750a-4c50-b282-67cbcd0dfdab.png",中天综合
-http://68.235.62.60:8081/nimble_live/213/chunks.m3u8
+#EXTINF:-1,ctv_4s
+https://p-sirona-yond.4gtv.tv/hi/vod/FrKGOa9JUx4/master.m3u8
+#EXTINF:-1,cna
+http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+#EXTINF:-1,zt_yl_ltv_61
+http://118.163.28.117:36570/hls/L10B32.m3u8
+#EXTINF:-1,ctv_classic_twHao
+https://58ada6ee80845.streamlock.net/ios/ctvclassic-0612/playlist.m3u8
+#EXTINF:-1,ctv_hd_amo
+http://202.39.43.119/stc/ch2016112265064.m3u8
