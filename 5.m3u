@@ -20,9 +20,9 @@ https://58ada6ee80845.streamlock.net/ios/ctv-0612/playlist.m3u8
 #EXTINF:-1,dsbusnews_twHao
 https://58ada6ee80845.streamlock.net/ios/ebcnews-0612/playlist.m3u8
 #EXTINF:-1,zt_zh_ltv_61
-http://118.163.31.141:36570/hls/K1A031.m3u8
+http://202.39.9.171:36570/hls/K1A031.m3u8
 #EXTINF:-1,zt_yl_ltv_61
-http://118.163.31.141:36570/hls/L10B32.m3u8
+http://202.39.9.171:36570/hls/L10B32.m3u8
 #EXTINF:-1,ctv_classic_twHao
 https://58ada6ee80845.streamlock.net/ios/ctvclassic-0612/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo
