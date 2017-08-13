@@ -20,7 +20,7 @@ http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live50/hls-a
 #EXTINF:-1,realma_cts
 http://srs01.realma.com:9701/afdfcad5eb12451f309d102f37feaa36/live09_hls.m3u8?os=ios
 #EXTINF:-1,hamitv_ctv_hd
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live48/hls-ae-tv/index.m3u8?url_type=token&token=czvGwWad18q0dOer1sA13w&expires=1502489616
+http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live48/hls-ae-tv/index.m3u8?url_type=token&token=toFuSykuj72odG0KRi7cXw&expires=1502624199
 #EXTINF:-1,ttvhd_twHao
 https://58ada6ee80845.streamlock.net/ios/ttvhd-0612/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo_1080
@@ -42,11 +42,11 @@ http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=liv
 #EXTINF:-1,ctv_news_amo
 http://202.39.43.119/sta/ch2017023164084962.m3u8
 #EXTINF:-1,ctv_news_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/Pig24sxxRYs/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/PlIr64WM2qs/master.m3u8
 #EXTINF:-1,realma_tvbs
 http://srs01.realma.com:9701/afdfcad5eb12451f309d102f37feaa36/live02_hls.m3u8?os=ios
 #EXTINF:-1,ctv_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/n_Y5FMKQZYc/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/CLYNil5f4oE/master.m3u8
 #EXTINF:-1,ctv_classic_twHao
 https://58ada6ee80845.streamlock.net/ios/ctvclassic-0612/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo
