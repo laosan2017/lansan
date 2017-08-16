@@ -42,11 +42,11 @@ http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=liv
 #EXTINF:-1,ctv_news_amo
 http://202.39.43.119/sta/ch2017023164084962.m3u8
 #EXTINF:-1,ctv_news_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/TWA8K3CoOLc/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/qZImndkIZU0/master.m3u8
 #EXTINF:-1,realma_tvbs
 http://srs01.realma.com:9701/5ca15bde24f31bc8e8a38d83ae063650/live02_hls.m3u8?os=ios
 #EXTINF:-1,ctv_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/stb-sJp3eFw/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/GsYc7ygPm1Y/master.m3u8
 #EXTINF:-1,ctv_classic_twHao
 https://58ada6ee80845.streamlock.net/ios/ctvclassic-0612/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo
