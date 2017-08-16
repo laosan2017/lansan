@@ -14,11 +14,11 @@ http://202.39.43.119/sta/ch2017023164084963.m3u8
 #EXTINF:-1,ctv_twHao
 https://58ada6ee80845.streamlock.net/ios/ctv-0612/playlist.m3u8
 #EXTINF:-1,realma_dsbusnews
-http://srs01.realma.com:9701/5ca15bde24f31bc8e8a38d83ae063650/live05_hls.m3u8?os=ios
+http://srs01.realma.com:9701/18e470cf63f5aa63066ae26e149ac29a/live05_hls.m3u8?os=ios
 #EXTINF:-1,hamitv_ctv_jd
 http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live50/hls-ae-tv/index.m3u8?token=QBeGGGY-TgX7_h6UZ05Whw&expires=1501884934
 #EXTINF:-1,realma_cts
-http://srs01.realma.com:9701/5ca15bde24f31bc8e8a38d83ae063650/live09_hls.m3u8?os=ios
+http://srs01.realma.com:9701/18e470cf63f5aa63066ae26e149ac29a/live09_hls.m3u8?os=ios
 #EXTINF:-1,hamitv_ctv_hd
 http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live48/hls-ae-tv/index.m3u8?url_type=token&token=toFuSykuj72odG0KRi7cXw&expires=1502624199
 #EXTINF:-1,ttvhd_twHao
@@ -32,7 +32,7 @@ http://210.201.54.102/glive/tvbsg/chunklist_w215702006.m3u8
 #EXTINF:-1,cna
 http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
 #EXTINF:-1,realma_tvbs_g
-http://srs01.realma.com:9701/5ca15bde24f31bc8e8a38d83ae063650/live06_hls.m3u8?os=ios
+http://srs01.realma.com:9701/18e470cf63f5aa63066ae26e149ac29a/live06_hls.m3u8?os=ios
 #EXTINF:-1,vland_26
 https://ms007.happytv.com.tw/live/sDmcJcRg8waPLpC6/playlist.m3u8
 #EXTINF:-1,ctv_bravo_twHao
@@ -42,11 +42,11 @@ http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=liv
 #EXTINF:-1,ctv_news_amo
 http://202.39.43.119/sta/ch2017023164084962.m3u8
 #EXTINF:-1,ctv_news_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/QTa_4MZ6jHI/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/kBpaE9Eu74g/master.m3u8
 #EXTINF:-1,realma_tvbs
-http://srs01.realma.com:9701/5ca15bde24f31bc8e8a38d83ae063650/live02_hls.m3u8?os=ios
+http://srs01.realma.com:9701/18e470cf63f5aa63066ae26e149ac29a/live02_hls.m3u8?os=ios
 #EXTINF:-1,ctv_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/aHim6N3aRbM/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/LEuH8-3Yq8E/master.m3u8
 #EXTINF:-1,ctv_classic_twHao
 https://58ada6ee80845.streamlock.net/ios/ctvclassic-0612/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo
