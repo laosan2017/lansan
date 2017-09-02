@@ -15,8 +15,6 @@ http://202.39.43.119/sta/ch2017023164084963.m3u8
 https://58ada6ee80845.streamlock.net/ios/ctv-0830/playlist.m3u8
 #EXTINF:-1,realma_dsbusnews
 http://srs01.realma.com:9701/5ada570ab719c7cf67b79eefc9c0075b/live05_hls.m3u8?os=ios
-#EXTINF:-1,hamitv_ctv_jd
-http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop2/cht/hamitv-live50/hls-ae-tv/index.m3u8?token=QBeGGGY-TgX7_h6UZ05Whw&expires=1501884934
 #EXTINF:-1,realma_cts
 http://srs01.realma.com:9701/5ada570ab719c7cf67b79eefc9c0075b/live09_hls.m3u8?os=ios
 #EXTINF:-1,hamitv_ctv_hd
