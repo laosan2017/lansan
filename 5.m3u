@@ -20,7 +20,7 @@ http://srs01.realma.com:9701/ecfcc2ed84a2978c1b68a9cb59200266/live09_hls.m3u8?os
 #EXTINF:-1,hamitv_ctv_hd
 http://chthamitv-hichannel.cdn.hinet.net/out/u/live/gop3/cht/hamitv-live48/hls-ae-mobile/index.m3u8?url_type=token&token=814VcOdTHl4U7ST46ag81Q&expires=1504392925
 #EXTINF:-1,ttvhd_twHao
-https://58ada6ee80845.streamlock.net/ios/ttvhd-0830/playlist.m3u8
+https://58ada6ee80845.streamlock.net/ios/ttvhd-0832/playlist.m3u8
 #EXTINF:-1,ctv_hd_amo_1080
 http://202.39.43.120/stc/ch2017071965684064.m3u8
 #EXTINF:-1,ctv_jd_amo
