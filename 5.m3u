@@ -6,7 +6,7 @@ http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=liv
 #EXTINF:-1,vland_26
 https://ms007.happytv.com.tw/live/szXUq9lv1hX5VwbR/playlist.m3u8
 #EXTINF:-1,realma_cts
-http://srs01.realma.com:9701/79bde8d10bc24ee6ee3b78cbfd298842/live09_hls.m3u8?os=ios
+http://srs01.realma.com:9701/62b38df5509bd7170779b0b606ac8429/live09_hls.m3u8?os=ios
 #EXTINF:-1,vland_71
 https://ms007.happytv.com.tw/live/hgGIvz6mRojwyNgr/playlist.m3u8
 #EXTINF:-1,hamitv_ctv_hd
@@ -16,11 +16,11 @@ http://awbesta666.zapto.org/4gtv/m3u8/4gtv-4gtv009.m3u8
 #EXTINF:-1,ttvhd_twHao
 https://58ada6ee80845.streamlock.net/ios/-ttvhd-0832/playlist.m3u8
 #EXTINF:-1,realma_tvbs_g
-http://srs01.realma.com:9701/79bde8d10bc24ee6ee3b78cbfd298842/live06_hls.m3u8?os=ios
+http://srs01.realma.com:9701/62b38df5509bd7170779b0b606ac8429/live06_hls.m3u8?os=ios
 #EXTINF:-1,ctv_bravo_twHao
 https://58ada6ee80845.streamlock.net/ios/-ctvhd-0832/playlist.m3u8
 #EXTINF:-1,realma_tvbs
-http://srs01.realma.com:9701/79bde8d10bc24ee6ee3b78cbfd298842/live02_hls.m3u8?os=ios
+http://srs01.realma.com:9701/62b38df5509bd7170779b0b606ac8429/live02_hls.m3u8?os=ios
 #EXTINF:-1,ctv_twHao
 https://58ada6ee80845.streamlock.net/ios/-ctv-0832/playlist.m3u8
 #EXTINF:-1,glive_tvbs_g
@@ -30,7 +30,7 @@ http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
 #EXTINF:-1,zt_zh_ltv_61
 http://www.tvtimes.bid/live2/ltv.ashx?token=CrackWatch&channel=36
 #EXTINF:-1,realma_dsbusnews
-http://srs01.realma.com:9701/79bde8d10bc24ee6ee3b78cbfd298842/live05_hls.m3u8?os=ios
+http://srs01.realma.com:9701/62b38df5509bd7170779b0b606ac8429/live05_hls.m3u8?os=ios
 #EXTINF:-1,zt_yl_ltv_61
 http://www.tvtimes.bid/live2/ltv.ashx?token=CrackWatch&channel=39
 #EXTINF:-1,ctv_classic_twHao
