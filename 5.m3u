@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,tvbs_twHao
-https://58ada6ee80845.streamlock.net/ios/-TvBS---2832/playlist.m3u8
+https://58ada6ee80845.streamlock.net/ios/-TvBs---2872/playlist.m3u8
 #EXTINF:-1,zt_yz
 http://live.gslb.letv.com/gslb?stream_id=pay_cti_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=letv&expect=1
 #EXTINF:-1,vland_26
@@ -20,13 +20,13 @@ http://srs01.realma.com:9701/4937b7a06c01e31f75b2bfcb1352e5cb/live06_hls.m3u8?os
 #EXTINF:-1,ctv_bravo_twHao
 https://58ad68d0b6c8d.streamlock.net/ios/-ctvhd---0832/playlist.m3u8
 #EXTINF:-1,ctv_news_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/SHclDudA7hU/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/dS1ia3bn8nI/master.m3u8
 #EXTINF:-1,dsbusnews_220
 http://220.228.49.31/live/fet004/chunklist.m3u
 #EXTINF:-1,ctv_twHao
 https://58ad68d0b6c8d.streamlock.net/ios/-cTv---3832/playlist.m3u8
 #EXTINF:-1,ctv_4s
-https://p-sirona-yond.4gtv.tv/hi/vod/qe5UPRYbzZs/master.m3u8
+https://p-sirona-yond.4gtv.tv/hi/vod/wpXGQeB5c8U/master.m3u8
 #EXTINF:-1,cna
 http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
 #EXTINF:-1,zt_zh_ltv_61
